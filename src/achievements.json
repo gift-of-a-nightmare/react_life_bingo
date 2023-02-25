@@ -2,6 +2,27 @@
     {
         "title" : "Feathery Friend",
         "description" : "Touch a pigeon",
-        "pic": "../images/pigeon.jpg"
+        "pic": "../images/pigeon.gif"
+    },
+    {
+        "title" : "Feathery Friend",
+        "description" : "Touch a pigeon",
+        "pic": "../images/pigeon.gif"
+    },
+    {
+        "title" : "Feathery Friend",
+        "description" : "Touch a pigeon",
+        "pic": "../images/pigeon.gif"
+    },
+    {
+        "title" : "Feathery Friend",
+        "description" : "Touch a pigeon",
+        "pic": "../images/pigeon.gif"
+    },
+    {
+        "title" : "Feathery Friend",
+        "description" : "Touch a pigeon",
+        "pic": "../images/pigeon.gif"
     }
+
 ]

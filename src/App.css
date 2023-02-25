@@ -30,6 +30,10 @@
 
   display: grid;
   grid-template-columns: 1fr 1fr;
+
+  animation: fadeIn 3s;
+  animation-timing-function: cubic-bezier(.14,.90,0,.97);
+
 }
 
 .container-card {
@@ -41,24 +45,31 @@
 }
 
 .container-card:hover {
-  background-color: rgba(255, 255, 255, 1);
+  background-color: rgba(255, 255, 255, 0.6);
   transition: background-color 2s;
-  transition-timing-function: cubic-bezier(.14,.73,0,.97);
+  transition-timing-function: cubic-bezier(.14,.90,0,.97);
 }
 
 .container-item1{
   display: flex;
   height: 20vh;
-  width: 200px;
+  width: 20vh;
 }
 
 .container-item2{
-  
+  font-family: "Lucida Handwriting";
+  text-shadow: #8f8f8f 1px 0 5px;
+  color: white;
 }
 
 .container-title{
 }
 
 .container-description{
+
 }
 
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
