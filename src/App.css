@@ -24,7 +24,7 @@
 .container {
   width: 80%;
   margin: 40px;
-  background-color: rgb(255, 255, 255, 0.3);
+  background-color: rgb(255, 255, 255, 0.2);
   border-radius: 10px;
   box-shadow: 0 0 20px rgba(34, 18, 18, 0.15);
 
@@ -37,10 +37,10 @@
 }
 
 .container-card {
-  background-color: rgba(255, 255, 255, 0.342);
+  background-color: rgba(255, 255, 255, 0.18);
   margin: 30px;
   display: grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: 1fr 2.5fr;
   max-height: 20vh;
 }
 
@@ -48,6 +48,7 @@
   background-color: rgba(255, 255, 255, 0.6);
   transition: background-color 2s;
   transition-timing-function: cubic-bezier(.14,.90,0,.97);
+  cursor: pointer;
 }
 
 .container-item1{
@@ -58,15 +59,16 @@
 
 .container-item2{
   font-family: "Lucida Handwriting";
-  text-shadow: #8f8f8f 1px 0 5px;
+  text-shadow: #00000070 1px 0 1px;
   color: white;
 }
 
 .container-title{
+  font-size: 12px;
 }
 
 .container-description{
-
+  font-family: 'Monaco';
 }
 
 @keyframes fadeIn {

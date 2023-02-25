@@ -37,7 +37,7 @@ function ContainerCard(props) {
           <h1>{props.title}</h1>
         </div>
         <div className='container-description'>
-          <h3>{props.description}</h3>
+          <h2>{props.description}</h2>
         </div>
       </div>
     </div>

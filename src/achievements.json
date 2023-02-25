@@ -1,28 +1,40 @@
 [
     {
         "title" : "Feathery Friend",
-        "description" : "Touch a pigeon",
+        "description" : "Touch a pigeon.",
         "pic": "../images/pigeon.gif"
     },
     {
-        "title" : "Feathery Friend",
-        "description" : "Touch a pigeon",
+        "title" : "Stalled",
+        "description" : "Get awkwardly stuck in a bathroom stall.",
         "pic": "../images/pigeon.gif"
     },
     {
-        "title" : "Feathery Friend",
-        "description" : "Touch a pigeon",
+        "title" : "Breaking Bad",
+        "description" : "Forget to pay for something at the self checkout.",
         "pic": "../images/pigeon.gif"
     },
     {
-        "title" : "Feathery Friend",
-        "description" : "Touch a pigeon",
+        "title" : "You can do anything at Walmart",
+        "description" : "Have a way too believable silly dream. (Bonus points if you check up on the news after waking up.)",
         "pic": "../images/pigeon.gif"
     },
     {
-        "title" : "Feathery Friend",
-        "description" : "Touch a pigeon",
+        "title" : "TITLE",
+        "description" : "-",
+        "pic": "../images/pigeon.gif"
+    },
+    {
+        "title" : "TITLE",
+        "description" : "-",
+        "pic": "../images/pigeon.gif"
+    },
+    {
+        "title" : "TITLE",
+        "description" : "-",
         "pic": "../images/pigeon.gif"
     }
+
+    
 
 ]
