@@ -1,53 +1,75 @@
 [
     {
         "title" : "Feathery Friend",
-        "description" : "Touch a pigeon.",
-        "pic": "../images/pigeon.gif"
-    },
-    {
-        "title" : "Stalled",
-        "description" : "Get awkwardly stuck in a bathroom stall.",
+        "description" : "Pet a pigeon.",
         "pic": "../images/pigeon.gif"
     },
     {
         "title" : "Breaking Bad",
         "description" : "Forget to pay for something at the self checkout.",
+        "pic": "../images/bad.gif"
+    },
+
+    {
+        "title" : "Breaking Bad",
+        "description" : "Forget to pay for something at the self checkout.",
+        "pic": "../images/bad.gif"
+    },
+    {
+        "title" : "Feathery Friend",
+        "description" : "Pet a pigeon.",
+        "pic": "../images/pigeon.gif"
+    },
+
+    {
+        "title" : "Feathery Friend",
+        "description" : "Pet a pigeon.",
         "pic": "../images/pigeon.gif"
     },
     {
-        "title" : "You can do anything at Walmart",
-        "description" : "Have a way too believable silly dream. (Bonus points if you check up on the news after waking up.)",
+        "title" : "Breaking Bad",
+        "description" : "Forget to pay for something at the self checkout.",
+        "pic": "../images/bad.gif"
+    },
+
+    {
+        "title" : "Breaking Bad",
+        "description" : "Forget to pay for something at the self checkout.",
+        "pic": "../images/bad.gif"
+    },
+    {
+        "title" : "Feathery Friend",
+        "description" : "Pet a pigeon.",
+        "pic": "../images/pigeon.gif"
+    },
+
+    {
+        "title" : "Feathery Friend",
+        "description" : "Pet a pigeon.",
+        "pic": "../images/pigeon.gif"
+    },
+
+    {
+        "title" : "Feathery Friend",
+        "description" : "Pet a pigeon.",
         "pic": "../images/pigeon.gif"
     },
     {
-        "title" : "TITLE",
-        "description" : "-",
-        "pic": "../images/pigeon.gif"
+        "title" : "Breaking Bad",
+        "description" : "Forget to pay for something at the self checkout.",
+        "pic": "../images/bad.gif"
+    },
+
+    {
+        "title" : "Breaking Bad",
+        "description" : "Forget to pay for something at the self checkout.",
+        "pic": "../images/bad.gif"
     },
     {
-        "title" : "TITLE",
-        "description" : "-",
-        "pic": "../images/pigeon.gif"
-    },
-    {
-        "title" : "TITLE",
-        "description" : "-",
-        "pic": "../images/pigeon.gif"
-    },    {
-        "title" : "TITLE",
-        "description" : "-",
-        "pic": "../images/pigeon.gif"
-    },    {
-        "title" : "TITLE",
-        "description" : "-",
-        "pic": "../images/pigeon.gif"
-    },    {
-        "title" : "TITLE",
-        "description" : "-",
-        "pic": "../images/pigeon.gif"
-    },    {
-        "title" : "TITLE",
-        "description" : "-",
+        "title" : "Feathery Friend",
+        "description" : "Pet a pigeon.",
         "pic": "../images/pigeon.gif"
     }
+    
+    
 ]

@@ -9,9 +9,8 @@ function App() {
   return (
     <div>
       <div className="App">
-      <BubbleWrapper/>
         <div className='body'>
-            
+        <BubbleWrapper/>
             <div className="container">
               {achievements.map((obj, i) => (
                 <div key={i}>
@@ -32,14 +31,32 @@ function App() {
 function ContainerCard(props) {
   const [unlocked, setUnlocked] = React.useState(false);
 
-  function sticker () {
-    // Determine a position, on the div. Then, place a sticker with animation.
+  // Placing the ribbon.
+  const [ribbonScale, setRibbonScale] = React.useState(3);
+  const [ribbonOpacity, setRibbonOpacity] = React.useState(0);
 
-    setUnlocked(!unlocked);
+
+  function sticker () {
+    if(unlocked){
+      setRibbonScale(3);
+      setRibbonOpacity(0);
+      setUnlocked(false);
+    } else {
+      setRibbonScale(1);
+      setRibbonOpacity(1);
+      setUnlocked(true);
+    }
   }
 
   return (
     <div className='container-box' onClick={() => sticker()}>
+      <div style={{
+          transform: `scale(${ribbonScale}, ${ribbonScale})`,
+          opacity: ribbonOpacity
+          }} 
+          className='sticker'>
+        <img src={`../images/sticker2.png`}/>
+      </div>
 
       <div className='container-card' >
         <div className='container-item1'>
