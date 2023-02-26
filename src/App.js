@@ -10,21 +10,20 @@ function App() {
     <div>
       <div className="App">
       <BubbleWrapper/>
-
         <div className='body'>
-
-          <div className="container">
-            {achievements.map((obj, i) => (
-              <div key={i}>
-                <ContainerCard
-                title={obj.title}
-                description={obj.description}
-                pic={obj.pic}/>
-              </div>
-            ))}
+            
+            <div className="container">
+              {achievements.map((obj, i) => (
+                <div key={i}>
+                  <ContainerCard
+                  title={obj.title}
+                  description={obj.description}
+                  pic={obj.pic}/>
+                </div>
+              ))}
+            </div>
           </div>
         </div>
-      </div>
     </div>
 
   );
