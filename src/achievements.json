@@ -11,65 +11,53 @@
     },
 
     {
-        "title" : "Breaking Bad",
-        "description" : "Forget to pay for something at the self checkout.",
-        "pic": "../images/bad.gif"
-    },
-    {
-        "title" : "Feathery Friend",
-        "description" : "Pet a pigeon.",
-        "pic": "../images/pigeon.gif"
+        "title" : "Fixation",
+        "description" : "Start 100 fun projects with an ever increasing scope and don't finish one.",
+        "pic": "../images/blank.gif"
     },
 
     {
-        "title" : "Feathery Friend",
-        "description" : "Pet a pigeon.",
-        "pic": "../images/pigeon.gif"
+        "title" : "Burnout",
+        "description" : "Lose inspiration for writing achievement descriptions.",
+        "pic": "../images/blank.gif"
+    },
+    
+    {
+        "title" : "Title",
+        "description" : "Reach a goal!",
+        "pic": "../images/blank.gif"
     },
     {
-        "title" : "Breaking Bad",
-        "description" : "Forget to pay for something at the self checkout.",
-        "pic": "../images/bad.gif"
-    },
-
-    {
-        "title" : "Breaking Bad",
-        "description" : "Forget to pay for something at the self checkout.",
-        "pic": "../images/bad.gif"
+        "title" : "Title",
+        "description" : "Reach a goal!",
+        "pic": "../images/blank.gif"
     },
     {
-        "title" : "Feathery Friend",
-        "description" : "Pet a pigeon.",
-        "pic": "../images/pigeon.gif"
-    },
-
-    {
-        "title" : "Feathery Friend",
-        "description" : "Pet a pigeon.",
-        "pic": "../images/pigeon.gif"
-    },
-
-    {
-        "title" : "Feathery Friend",
-        "description" : "Pet a pigeon.",
-        "pic": "../images/pigeon.gif"
+        "title" : "Title",
+        "description" : "Reach a goal!",
+        "pic": "../images/blank.gif"
     },
     {
-        "title" : "Breaking Bad",
-        "description" : "Forget to pay for something at the self checkout.",
-        "pic": "../images/bad.gif"
-    },
-
-    {
-        "title" : "Breaking Bad",
-        "description" : "Forget to pay for something at the self checkout.",
-        "pic": "../images/bad.gif"
+        "title" : "Title",
+        "description" : "Reach a goal!",
+        "pic": "../images/blank.gif"
     },
     {
-        "title" : "Feathery Friend",
-        "description" : "Pet a pigeon.",
-        "pic": "../images/pigeon.gif"
+        "title" : "Title",
+        "description" : "Reach a goal!",
+        "pic": "../images/blank.gif"
+    },
+    {
+        "title" : "Title",
+        "description" : "Reach a goal!",
+        "pic": "../images/blank.gif"
+    },
+    {
+        "title" : "Title",
+        "description" : "Reach a goal!",
+        "pic": "../images/blank.gif"
     }
+    
     
     
 ]

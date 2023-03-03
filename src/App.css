@@ -34,7 +34,7 @@
 .container-card {
 
   display: grid;
-  grid-template-columns: 1fr 2.6fr;
+  grid-template-columns: 1fr 2fr;
   max-height: 20vh;
 
   border-radius: 10px;
